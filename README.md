@@ -1,6 +1,6 @@
 # Terraform Module Template
 
-Foobar..
+Template repository for Terraform modules, containing an example module.
 
 <!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
 ## Requirements
